@@ -2,6 +2,10 @@
 # Return the name ("Denver Biscuit")
 # Return the rating (4.5)
 # Return a list of accepted transactions (["pickup", "delivery"])
+# Return the first listed category title ("Sandwiches")
+# Return the opening hour on Tuesday (day 1) ("0800")
+# Return the closing hour on Saturday (day 5) ("1500")
+# Return the current open status (is_now_open) (true)
 
 # Challenge 2: 
 # Get the address, and return it into a readable format. ("3237 E Colfax Ave, Denver, CO 80206" )
